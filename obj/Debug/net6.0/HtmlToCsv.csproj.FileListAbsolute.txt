@@ -1,0 +1,17 @@
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.csproj.AssemblyReference.cache
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.AssemblyInfoInputs.cache
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.AssemblyInfo.cs
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.csproj.CoreCompileInputs.cache
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\bin\Debug\net6.0\HtmlToCsv.exe
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\bin\Debug\net6.0\HtmlToCsv.deps.json
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\bin\Debug\net6.0\HtmlToCsv.runtimeconfig.json
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\bin\Debug\net6.0\HtmlToCsv.dll
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\bin\Debug\net6.0\HtmlToCsv.pdb
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.csproj.CopyComplete
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.dll
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\refint\HtmlToCsv.dll
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.pdb
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\HtmlToCsv.genruntimeconfig.cache
+C:\Users\vladb\Desktop\ЕЮ\HtmlToCsv\obj\Debug\net6.0\ref\HtmlToCsv.dll

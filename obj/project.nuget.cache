@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hp4WObCui8g1GyoiUssRt/IHiKe5nTQxM4/EmQkG+kXetwSzkP3QpNBrDhA51+ovT9hdZqOZirGs2YuE2ZWmog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladb\\Desktop\\ЕЮ\\HtmlToCsv\\HtmlToCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladb\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
